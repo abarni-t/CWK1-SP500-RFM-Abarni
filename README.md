@@ -1,6 +1,6 @@
 # Market Analysis and Stock Segmentation Using RFM
 
-**Module:** 6BUIS017W CRM & CM With Business Intelligence, Individual Coursework CWK1 (CRM Case Study)
+**Module:** 6BUIS017C CRM & CM With Business Intelligence, Individual Coursework CWK1 (CRM Case Study)
 **Student:** Abarni Thiruthaniesan | UOW ID: 20519610 | IIT ID: 20231054
 
 This repository contains the Google Colab notebook, data snapshot and outputs for my CWK1 analysis. The analysis segments S&P 500 shares using risk and return features (mean weekly return, beta) and RFM-style trading-activity features (Recency, Frequency, Monetary).
